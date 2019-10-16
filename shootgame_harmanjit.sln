@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shootgame_harmanjit", "shootgame_harmanjit\shootgame_harmanjit.csproj", "{2F867DE3-EE01-470D-AF5C-8156D7FF418D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shootgame_harmanjitTests", "shootgame_harmanjitTests\shootgame_harmanjitTests.csproj", "{4B08E08D-183B-4783-B8DE-1AB6B7B8B960}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F867DE3-EE01-470D-AF5C-8156D7FF418D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F867DE3-EE01-470D-AF5C-8156D7FF418D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F867DE3-EE01-470D-AF5C-8156D7FF418D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F867DE3-EE01-470D-AF5C-8156D7FF418D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B08E08D-183B-4783-B8DE-1AB6B7B8B960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B08E08D-183B-4783-B8DE-1AB6B7B8B960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B08E08D-183B-4783-B8DE-1AB6B7B8B960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B08E08D-183B-4783-B8DE-1AB6B7B8B960}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F73C5A8-5AF4-4E78-8420-06A21B8CF3BA}
+	EndGlobalSection
+EndGlobal
